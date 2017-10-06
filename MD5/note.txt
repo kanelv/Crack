@@ -1,0 +1,15 @@
+GUI
+https://www.codeproject.com/Articles/23769/Simple-String-Encryption-and-Decryption-with-Sourc
+
+Encode
+https://itphutran.com/lap-trinh-java/ma-hoa-md5-trong-java
+https://www.mkyong.com/java/java-md5-hashing-example
+http://www.java2s.com/Tutorial/Java/0490__Security/0480__MD5-Message-Digest-algorithm%20.htm
+
+Hash
+https://vi.wikipedia.org/wiki/H%C3%A0m_b%C4%83m_m%E1%BA%ADt_m%C3%A3_h%E1%BB%8Dc
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
+http://tryingshare123.blogspot.com/2014/09/java-security-phan-6-message-digests.html
+
+java-program-implement-md5-algorithm
+http://www.sanfoundry.com/java-program-implement-md5-algorithm/
